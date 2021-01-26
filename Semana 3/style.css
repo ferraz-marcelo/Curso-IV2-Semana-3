@@ -1,0 +1,35 @@
+.titulo *{
+    display: inline-block;
+    color: rgb(141, 73, 204);
+}
+
+
+li {
+color: rgb(141, 73, 204);
+width: 100%;
+display: flex;
+line-height: 3em;
+} 
+
+.mdl-textfield.mdl-js-textfield.mdl-textfield--floating-label {
+    color:  rgb(141, 73, 204);
+}
+
+
+.mdl-button.mdl-js-button.mdl-button--raised.mdl-button--colored {
+    background-color: rgb(141, 73, 204);
+}
+
+.mdl-textfield__label {
+    color: rgb(141, 73, 204);
+}
+
+a {
+    cursor: pointer;
+    color: rgb(231, 87, 87);
+}
+
+.mdl-button.mdl-js-button.mdl-button--raised.mdl-js-ripple-effect.mdl-button--accent {
+    background-color: rgb(231, 87, 87);
+}
+
